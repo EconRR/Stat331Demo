@@ -1,2 +1,2 @@
-# Stat331Demo
-My first Repo For Stat 331
+# This is a Template Repo From Stat33M
+This text can be changed with the pencil.
